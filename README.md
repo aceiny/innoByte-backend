@@ -6,18 +6,19 @@ just fellow this easy steps :
 `npm install`
 ## step 3 : after install all dependencies you will need to run the server next on your terminal just type this sample command : 
 `npm start`
-## template structer : 
--controllers
-  -controllers.js
+## Template Structure:
+
+- controllers
+  - controllers.js
 - db
   - connectdb.js
--extra
-  -errhandler.js
-  -notfound.js
--routes
-  -routes.js
--schemas
-  -model.js
--app.js
--package.json
+- extra
+  - errhandler.js
+  - notfound.js
+- routes
+  - routes.js
+- schemas
+  - model.js
+- app.js
+- package.json
 **and voila you got your express server runing and restartnig with each code change just dont forget to include your mongodb cluster in .env file after the name "MONGO = your_cluster_key**
