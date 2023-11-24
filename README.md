@@ -2,5 +2,5 @@
 just fellow this easy steps : 
 #step 1 
 bash ``
- npm install 
+  npm install  
  ``
