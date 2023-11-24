@@ -22,4 +22,4 @@ just fellow this easy steps :
 - app.js
 - package.json
 <br>
-**and voila you got your express server runing and restartnig with each code change just dont forget to include your mongodb cluster in .env file after the name "MONGO = your_cluster_key**
+and voila you got your express server runing and restartnig with each code change just dont forget to include your mongodb cluster in .env file after the name "MONGO = your_cluster_key"
