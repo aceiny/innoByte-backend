@@ -17,7 +17,7 @@ const userSchema = new Schema({
     },
     institution : {
         type : String,
-        enum : ['ESI','ESTIN','USTHB','ESI-SBA','Other'],
+        //enum : ['ESI','ESTIN','USTHB','ESI SBA','Other'],
     },
     placeToStay : {
         type : Boolean
