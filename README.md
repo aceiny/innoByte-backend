@@ -19,7 +19,6 @@
   - model.js
 - app.js
 - package.json
-<br>
 ## to add new participant
 `/api/v1/addp - POST`
 ## to get all participants originzed by team
