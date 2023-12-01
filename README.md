@@ -20,8 +20,8 @@
 - app.js
 - package.json
 <br>
-##to add new participant
+## to add new participant
 `/api/v1/addp - POST`
-##to get all participants originzed by team
+## to get all participants originzed by team
 `api/v1/getp - GET `
 dont forget to include your mongodb cluster in .env file after the name "MONGO = your_cluster_key"
