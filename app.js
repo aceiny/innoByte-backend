@@ -29,7 +29,7 @@ app.use('/api/v1/',routes) // link the products routes
     app.use(errhandler) //handle server errs
 //start the server 
 
-const port = process.env.PORT || 443
+const port = process.env.PORT || 8088
 const start = async () => {
     try {
         await connectdb(process.env.MONGO) // connect to db
