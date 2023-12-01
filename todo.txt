@@ -1,2 +1,2 @@
-limit cors 
-k
+limit cors ip's acces
+limit db ip's acces
